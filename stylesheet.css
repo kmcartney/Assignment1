@@ -1,0 +1,108 @@
+body {
+  font-family:"Gill Sans", sans-serif;
+  font-size: 25px;
+  color:#d0a195;
+  background-color:#24344b;
+  max-width:45em;
+  line-height:32px;
+  margin-left:6%;
+}
+.text {
+  font-family:"Gill Sans", sans-serif;
+  font-size: 25px;
+  color:#d0a195;
+  background-color:#24344b;
+  max-width:45em;
+  line-height:32px;
+  margin-left:30%;
+}
+h1 {
+  max-width:10em;
+  font-size:90px;
+  font-family: "Snell Roundhand", cursive;
+  color:#f2cb43;
+}
+h2 {
+  font-size:26px;
+}
+.yellownymph {
+  font-family:"Gill Sans", sans-serif;
+  font-size: 25px;
+  color:#f2cb43;
+  background-color:#24344b;
+  line-height:32px;
+  margin-left: 6%;
+}
+.ladyfriend {
+  font-family:"Gill Sans", sans-serif;
+  font-size: 18px;
+  color:#f2cb43;
+  background-color:#24344b;
+  line-height:32px;
+  margin-left: 6%;
+}
+.masterstroke {
+  font-size:18px;
+  line-height:20px;
+}
+.mas {
+  margin-left:4%;
+}
+.ter {
+  margin-left:8%;
+}
+.stroke {
+  margin-left:11%;
+}
+.boy {
+  margin-left:30%;
+}
+.plow {
+  margin-left:25%;
+}
+.tailor {
+  margin-left:20%;
+}
+.tinker {
+  margin-left:15%;
+}
+.sailor {
+  margin-left:10%;
+}
+.soldier {
+  margin-left:3%;
+}
+
+.right {
+  text-align:right;
+  display: block;
+  padding-right:400px;
+}
+.center {
+  text-align: center;
+  margin-right: 45%;
+  display: block;
+}
+.fairy {
+  margin-right:85px;
+}
+.image1 {
+  float: left;
+  position: absolute;
+  margin-left:0%;
+  margin-right:100%;
+}
+.image2 {
+  float:left;
+  width: 5%;
+    left: 50%;
+}
+.image3 {
+  float: left;
+  width: 3%;
+  position: absolute;
+}
+
+.masterstrokediv {
+  margin-left:19%;
+}

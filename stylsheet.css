@@ -1,0 +1,21 @@
+body {
+  font-family:"Gill Sans", sans-serif;
+  font-size: 18px;
+  color:#d0a195;
+  background-color:#24344b;
+  max-width:30em;
+  line-height:1em;
+  margin-left:5%;
+}
+
+
+h1 {
+  max-width:10em;
+  line-height: 1em;
+  font-size:48px;
+  font-family: "Snell Roundhand", cursive;
+  color:#f2cb43;
+}
+h2 {  font-size:25px;
+  color:#f2cb43;
+}
