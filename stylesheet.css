@@ -20,15 +20,22 @@ h1 {
   max-width:10em;
   font-size:90px;
   font-family: "Snell Roundhand", cursive;
-  color:#f2cb43;
+  color:#f8c932;
 }
 h2 {
   font-size:26px;
 }
+h3 {
+  font-family:"Gill Sans", sans-serif;
+  font-size:10px;
+  text-transform: uppercase;
+  color:#a53d3f;
+  line-height: 11px;
+}
 .yellownymph {
   font-family:"Gill Sans", sans-serif;
   font-size: 25px;
-  color:#f2cb43;
+  color:#f8c932;
   background-color:#24344b;
   line-height:32px;
   margin-left: 6%;
@@ -36,7 +43,7 @@ h2 {
 .ladyfriend {
   font-family:"Gill Sans", sans-serif;
   font-size: 18px;
-  color:#f2cb43;
+  color:#f8c932;
   background-color:#24344b;
   line-height:32px;
   margin-left: 6%;
@@ -105,4 +112,22 @@ h2 {
 
 .masterstrokediv {
   margin-left:19%;
+}
+.link {
+  position: fixed;
+  top: 30px;
+  right:10%;
+}
+a {
+  color:#d0a195;
+  border-top-style: solid;
+  border-top-color: #29fd2f;
+  border-top-width:4px;
+  border-bottom-style: solid;
+  border-bottom-color: #29fd2f;
+  border-bottom-width:4px;
+}
+a:hover {
+  color:#29fd2f;
+  transition:2s;
 }
